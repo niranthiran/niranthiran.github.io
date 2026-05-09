@@ -6,10 +6,6 @@ title: First post
 
 \---
 
-
-
-
-
 \# My First Blog Post
 
 
