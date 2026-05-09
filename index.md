@@ -1,26 +1,18 @@
-\# Welcome to My Blog
+\# My Blog 🚀
 
 
 
-Hello! I'm \*\*niranthiran\*\* and this is my personal blog.
-
-
-
-\## About Me
-
-I'm learning to create a blog on GitHub. This is just the beginning!
+Welcome!
 
 
 
 \## Latest Posts
 
-Coming soon...
+\- \[My First Blog Post](posts/first-post.md)
 
 
 
-\---
+\## About
 
-
-
-\*Last updated: May 9, 2026\*
+\- \[About Me](about.md)
 
