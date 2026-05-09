@@ -1,26 +1,15 @@
-\# Welcome to My Blog
+# Welcome to My Blog
 
+Hello! I'm **niranthiran** and this is my personal blog.
 
+## About Me
 
-Hello! I'm \*\*poikaikumaran\*\* and this is my personal blog.
+I'm learning to create a blog on GitHub Pages. This is just the beginning!
 
-
-
-\## About Me
-
-I'm learning to create a blog on GitHub. This is just the beginning!
-
-
-
-\## Latest Posts
+## Latest Posts
 
 Coming soon...
 
+---
 
-
-\---
-
-
-
-\*Last updated: May 9, 2026\*
-
+*Last updated: May 9, 2026*
