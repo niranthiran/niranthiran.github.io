@@ -2,13 +2,13 @@
 
 
 
-Welcome!
+Welcome! changes done 
 
 
 
 \## Latest Posts
 
-\- \[My First Blog Post](posts/first-post.md)
+\- \[My First Blog Post](posts/firstpost.md)
 
 
 
