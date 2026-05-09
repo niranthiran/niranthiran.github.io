@@ -2,7 +2,7 @@
 
 
 
-Hello! I'm \*\*poikaikumaran\*\* and this is my personal blog.
+Hello! I'm \*\*niranthiran\*\* and this is my personal blog.
 
 
 
