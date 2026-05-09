@@ -2,5 +2,5 @@
 
 
 
-\- \[ABOUT](about.md)
+\- \[ABOUT](/about)
 
