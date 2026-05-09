@@ -1,18 +1,22 @@
+</>Markdown
+
+
+
 \# My First Blog Post
 
 
 
-This is my first post using GitHub Pages + Git.
+Welcome to my blog 🚀
 
 
 
-\## Why I started
+\## Why I started this
 
-I want to document my learning journey.
+I want to document my learning journey. ok
 
 
 
-\## What I’ll write about
+\## Topics I’ll cover
 
 \- Tech
 
