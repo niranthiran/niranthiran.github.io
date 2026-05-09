@@ -1,18 +1,6 @@
-\# My Blog 🚀
+\# TEST
 
 
 
-Welcome! changes done well done
-
-
-
-\## Latest Posts
-
-\- \[My First Blog Post](posts/firstpost.md)
-
-
-
-\## About
-
-\- \[About Me](about.md)
+\- \[ABOUT](about.md)
 
